@@ -1,6 +1,8 @@
 # Daniel Zarzoso Torres
 
-Desarrollador de Aplicaciones Web con más de 5 años de experiencia. Actualmente trabajando en ENCAMINA como Cloud Solutions Developer en tecnologías cloud de Microsoft.
+Desarrollador de Aplicaciones Web con más de 5 años de experiencia.
+
+Actualmente trabajando en ENCAMINA como Cloud Solutions Developer en tecnologías cloud de Microsoft.
 
 <br/>
 
