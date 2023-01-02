@@ -2,7 +2,7 @@
 
 Desarrollador de Aplicaciones Web con más de 5 años de experiencia.
 
-Actualmente trabajando en <a href="https://www.encamina.com/" target="_blank">ENCAMINA</a> como Cloud Solutions Developer en tecnologías cloud de Microsoft.
+Actualmente trabajando en <a href="https://www.encamina.com/" target="_blank">ENCAMINA</a> como Team Leader en equipos con tecnologías cloud de Microsoft.
 
 <br/>
 
