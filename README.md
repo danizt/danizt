@@ -1,8 +1,6 @@
-# Daniel Zarzoso Torres
+Desarrollador de Aplicaciones Web.
 
-Desarrollador de Aplicaciones Web con más de 5 años de experiencia.
-
-Actualmente trabajando en <a href="https://www.encamina.com/" target="_blank">ENCAMINA</a> como Team Leader en equipos con tecnologías cloud de Microsoft.
+Actualmente trabajando en <a href="https://www.encamina.com/" target="_blank">ENCAMINA</a> como Team Leader en equipos de desarrollo en plataformas de Microsoft.
 
 ---
 
